@@ -23,6 +23,3 @@ jobs:
 
     - name: Run tests
       run: npm test
-
-      // Test comment for PR
-      const fs = require('fs');
