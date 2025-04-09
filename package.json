@@ -4,7 +4,7 @@
   "description": "",
   "main": "iconGenerator.js",
   "scripts": {
-    "test": "npx jest"
+    "test": "jest"
   },
   "keywords": [],
   "author": "",
