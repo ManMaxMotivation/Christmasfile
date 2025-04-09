@@ -13,7 +13,7 @@ function generateIcon(stake, outputFile) {
     }
 
     // Первая строка: "W"
-    icon.push(centerTreeLine("W"));
+    icon.push(centerTreeLine("X"));
 
     // Вторая строка: "*"
     icon.push(centerTreeLine("*"));
